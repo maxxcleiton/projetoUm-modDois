@@ -25,9 +25,12 @@ header {
 
 button {
     width: 20vw;
-    height: 4vh;
 }
 
 .modelo {
-    height: 50vh
+    height: 50vh;
+}
+
+footer {
+    color: aliceblue;
 }
