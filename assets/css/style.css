@@ -14,6 +14,7 @@ header {
 
 #legenda {
     color: aliceblue;
+    transition: 0.7s;
 }
 
 .formas {
@@ -24,11 +25,18 @@ header {
 }
 
 button {
-    width: 20vw;
+    transition: 0.7s;
+    border: none;
+    cursor: pointer;
+    padding: 0.6rem;
+    outline: none;
 }
-
+#troca:hover {
+    background-color: silver;
+}
 .modelo {
     height: 50vh;
+    transition: 0.4s;
 }
 
 footer {
